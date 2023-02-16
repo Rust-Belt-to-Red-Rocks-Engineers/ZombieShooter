@@ -28,6 +28,7 @@ namespace ZombieShooter
         public void MakeZombies()
         {
             int no = 0;
+            string yes = "";
 
         } //hey
         public void RestartGame()
